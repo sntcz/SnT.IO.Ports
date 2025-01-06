@@ -1,5 +1,8 @@
 # Serial Port
 
+> [!IMPORTANT]  
+> Project is not in active development and is not active maintaned. Use [System.IO.Ports](https://www.nuget.org/packages/System.IO.Ports)
+
 A complete wrapper for the Win32 Waitable Events API before stumbling on 
 the ManualResetEvent and AutoResetEvent framework classes that already 
 encapsulated all the functionality.. 
@@ -51,4 +54,4 @@ if you want to contribute to this project.
 
 
 ## License
-Dual licensed, see [LICENSE.dm](LICENSE.md)
+Dual licensed, see [LICENSE.md](LICENSE.md)
